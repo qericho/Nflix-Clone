@@ -1,8 +1,8 @@
 import { Route, Routes } from "react-router-dom"
-import Navbar from "./components/Navbar"
-import Home from "./pages/home"
-import SignUp from "./pages/SignUp"
-import Login from "./pages/Login"
+import Navbar from "./components/Navbar.jsx"
+import Home from "./pages/home.jsx"
+import SignUp from "./pages/SignUp.jsx"
+import Login from "./pages/Login.jsx"
 
 const App = () => {
   return (
